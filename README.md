@@ -3,6 +3,6 @@ This project addressed the business problem of search engine optimization (SEO) 
 
 Moreover, random forest is leveraged to improve the PV prediction accuracy, helping car dealers to forecast customer preferences with confidence. 
 
-Feature importance is calculated using mean decrease impurity (MDI) method, showing model land cruiser and MR2 are popular
+Feature importance is calculated using mean decrease impurity (MDI) method, showing land cruiser and MR2 are popular models.
 
 This project presents a comprehensive process from preparing data with ETL pipeline to model building and final evaluation.
